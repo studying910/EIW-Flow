@@ -1,5 +1,3 @@
 # EIW-Flow
 
-This paper is recently submitting to Pattern Recognition.
-
-Please do not distribute.
+Official Implementation for paper: Entropy-Informed Weighting Channel Normalizing Flow.
